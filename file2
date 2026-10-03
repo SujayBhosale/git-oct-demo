@@ -1,2 +1,4 @@
-hello 
-x=10
+<<<<<<< HEAD
+hello
+welcome to git
+x=20
